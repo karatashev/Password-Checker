@@ -1,7 +1,7 @@
 # Password-Checker
 First project with JavaScript
 
-Deployed here: 
+Deployed here: https://password-checker-js.netlify.app/
 
 The very first project i made with JavaScript. It's very simple and it's checking if your password is weak, strong or very strong based on password.lenght. Depending of the lenght it's rendering the appropriate color box made with grid. It's also rendering on the screen the entered password.
 
